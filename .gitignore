@@ -29,4 +29,9 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
-*.sw? 
+*.sw?
+
+# Cache directories
+.cache
+node_modules/.cache
+node_modules/.cache/gh-pages 
